@@ -18,6 +18,8 @@ namespace FunnyGame
 
             Console.Title = "ATM Foundation Database";
 
+            Console.Clear();
+
             Console.WriteLine("Welcome to the ATM Foundation Database");
 
             Thread.Sleep(1500); 

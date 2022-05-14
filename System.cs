@@ -20,7 +20,7 @@ namespace FunnyGame
             string log2_context = "We have been studying the Skwurls to see how they will react and adapt to their new ecosystem, and we have created several small research facilites under the main sanctuary\n" +
                 "We will continue to monitor the Skwurls";
             string log3 = "LOG 3";
-            string log3_context = "We have found out how to merge alternate timelines and universes with ours, we will continue to test the Skwurls adn then merge the timeline";
+            string log3_context = "We have found out how to merge alternate timelines and universes with ours, we will continue to test the Skwurls and then merge the timeline";
             string log4 = "LOG 4";
             string log4_context = "The Foundation has sent a warning, the ATM Core in project OC_25 has ran out of coolant, the cores temperature is heating up, and until we can get more coolant to the core, the ice in the Tunda may melt";
             string log5 = "LOG 5";
