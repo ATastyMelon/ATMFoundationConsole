@@ -1,0 +1,13 @@
+D:\VSCodeProjects\FunnyGame\bin\Release\netcoreapp3.1\ATMFoundationConsole.exe
+D:\VSCodeProjects\FunnyGame\bin\Release\netcoreapp3.1\ATMFoundationConsole.deps.json
+D:\VSCodeProjects\FunnyGame\bin\Release\netcoreapp3.1\ATMFoundationConsole.runtimeconfig.json
+D:\VSCodeProjects\FunnyGame\bin\Release\netcoreapp3.1\ATMFoundationConsole.runtimeconfig.dev.json
+D:\VSCodeProjects\FunnyGame\bin\Release\netcoreapp3.1\ATMFoundationConsole.dll
+D:\VSCodeProjects\FunnyGame\bin\Release\netcoreapp3.1\ATMFoundationConsole.pdb
+D:\VSCodeProjects\FunnyGame\obj\Release\netcoreapp3.1\ATMFoundationConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCodeProjects\FunnyGame\obj\Release\netcoreapp3.1\ATMFoundationConsole.AssemblyInfoInputs.cache
+D:\VSCodeProjects\FunnyGame\obj\Release\netcoreapp3.1\ATMFoundationConsole.AssemblyInfo.cs
+D:\VSCodeProjects\FunnyGame\obj\Release\netcoreapp3.1\ATMFoundationConsole.csproj.CoreCompileInputs.cache
+D:\VSCodeProjects\FunnyGame\obj\Release\netcoreapp3.1\ATMFoundationConsole.dll
+D:\VSCodeProjects\FunnyGame\obj\Release\netcoreapp3.1\ATMFoundationConsole.pdb
+D:\VSCodeProjects\FunnyGame\obj\Release\netcoreapp3.1\ATMFoundationConsole.genruntimeconfig.cache

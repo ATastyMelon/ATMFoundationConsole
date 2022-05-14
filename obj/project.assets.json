@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VSCodeProjects\\FunnyGame\\FunnyGame.csproj",
-      "projectName": "FunnyGame",
-      "projectPath": "D:\\VSCodeProjects\\FunnyGame\\FunnyGame.csproj",
+      "projectUniqueName": "D:\\VSCodeProjects\\FunnyGame\\ATMFoundationConsole.csproj",
+      "projectName": "ATMFoundationConsole",
+      "projectPath": "D:\\VSCodeProjects\\FunnyGame\\ATMFoundationConsole.csproj",
       "packagesPath": "C:\\Users\\gredd\\.nuget\\packages\\",
       "outputPath": "D:\\VSCodeProjects\\FunnyGame\\obj\\",
       "projectStyle": "PackageReference",

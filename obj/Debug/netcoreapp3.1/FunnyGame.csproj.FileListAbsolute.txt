@@ -1,0 +1,14 @@
+D:\VSCodeProjects\FunnyGame\bin\Debug\netcoreapp3.1\FunnyGame.exe
+D:\VSCodeProjects\FunnyGame\bin\Debug\netcoreapp3.1\FunnyGame.deps.json
+D:\VSCodeProjects\FunnyGame\bin\Debug\netcoreapp3.1\FunnyGame.runtimeconfig.json
+D:\VSCodeProjects\FunnyGame\bin\Debug\netcoreapp3.1\FunnyGame.runtimeconfig.dev.json
+D:\VSCodeProjects\FunnyGame\bin\Debug\netcoreapp3.1\FunnyGame.dll
+D:\VSCodeProjects\FunnyGame\bin\Debug\netcoreapp3.1\FunnyGame.pdb
+D:\VSCodeProjects\FunnyGame\obj\Debug\netcoreapp3.1\FunnyGame.csproj.AssemblyReference.cache
+D:\VSCodeProjects\FunnyGame\obj\Debug\netcoreapp3.1\FunnyGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCodeProjects\FunnyGame\obj\Debug\netcoreapp3.1\FunnyGame.AssemblyInfoInputs.cache
+D:\VSCodeProjects\FunnyGame\obj\Debug\netcoreapp3.1\FunnyGame.AssemblyInfo.cs
+D:\VSCodeProjects\FunnyGame\obj\Debug\netcoreapp3.1\FunnyGame.csproj.CoreCompileInputs.cache
+D:\VSCodeProjects\FunnyGame\obj\Debug\netcoreapp3.1\FunnyGame.dll
+D:\VSCodeProjects\FunnyGame\obj\Debug\netcoreapp3.1\FunnyGame.pdb
+D:\VSCodeProjects\FunnyGame\obj\Debug\netcoreapp3.1\FunnyGame.genruntimeconfig.cache
