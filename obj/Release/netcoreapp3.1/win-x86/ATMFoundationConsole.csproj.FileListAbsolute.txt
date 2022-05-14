@@ -220,7 +220,6 @@ D:\VSCodeProjects\FunnyGame\bin\Release\netcoreapp3.1\win-x86\dbgshim.dll
 D:\VSCodeProjects\FunnyGame\bin\Release\netcoreapp3.1\win-x86\hostfxr.dll
 D:\VSCodeProjects\FunnyGame\bin\Release\netcoreapp3.1\win-x86\hostpolicy.dll
 D:\VSCodeProjects\FunnyGame\bin\Release\netcoreapp3.1\win-x86\mscordaccore.dll
-D:\VSCodeProjects\FunnyGame\bin\Release\netcoreapp3.1\win-x86\mscordaccore_x86_x86_4.700.21.56803.dll
 D:\VSCodeProjects\FunnyGame\bin\Release\netcoreapp3.1\win-x86\mscordbi.dll
 D:\VSCodeProjects\FunnyGame\bin\Release\netcoreapp3.1\win-x86\mscorrc.debug.dll
 D:\VSCodeProjects\FunnyGame\bin\Release\netcoreapp3.1\win-x86\mscorrc.dll
@@ -233,3 +232,4 @@ D:\VSCodeProjects\FunnyGame\obj\Release\netcoreapp3.1\win-x86\ATMFoundationConso
 D:\VSCodeProjects\FunnyGame\obj\Release\netcoreapp3.1\win-x86\ATMFoundationConsole.dll
 D:\VSCodeProjects\FunnyGame\obj\Release\netcoreapp3.1\win-x86\ATMFoundationConsole.pdb
 D:\VSCodeProjects\FunnyGame\obj\Release\netcoreapp3.1\win-x86\ATMFoundationConsole.genruntimeconfig.cache
+D:\VSCodeProjects\FunnyGame\bin\Release\netcoreapp3.1\win-x86\mscordaccore_x86_x86_4.700.22.21202.dll

@@ -22,18 +22,24 @@ namespace FunnyGame
 
             Thread.Sleep(1500); 
 
-            enter:
+            Console.WriteLine("Please enter the project you wish to view the logs of");
 
-            Console.WriteLine("Please enter the password");
+        enter:
 
             enterPassword = Console.ReadLine();
 
-            if (enterPassword == password || enterPassword == passLow)
+            if (enterPassword == password)
             {
                 Console.Clear();
                 system.FunkyMan(args);
-            } else
+            }
+            else if (enterPassword == "OVERRIDE")
             {
+                Console.Clear();
+            }
+            else
+            {
+                Console.WriteLine("ERROR CANNOT FIND PROJECT SPECIFIED, PLEASE TYPE IN CORRECT PROJECT ID");
                 goto enter;
             }
         }

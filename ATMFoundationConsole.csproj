@@ -5,6 +5,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <ApplicationIcon>ATMConsole.ico</ApplicationIcon>
     <StartupObject>FunnyGame.Starter</StartupObject>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>ATMFCKey.pfx</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
 </Project>

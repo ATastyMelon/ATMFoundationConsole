@@ -12,7 +12,7 @@ namespace FunnyGame
             Console.Clear();
             Console.WriteLine(text);
             Console.Beep();
-            Thread.Sleep(1000);
+            Thread.Sleep(500);
             Console.WriteLine(context);
             Console.Beep();
             Console.WriteLine("Press any key to go back");

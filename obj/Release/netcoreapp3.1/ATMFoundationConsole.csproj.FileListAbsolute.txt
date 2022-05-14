@@ -11,3 +11,4 @@ D:\VSCodeProjects\FunnyGame\obj\Release\netcoreapp3.1\ATMFoundationConsole.cspro
 D:\VSCodeProjects\FunnyGame\obj\Release\netcoreapp3.1\ATMFoundationConsole.dll
 D:\VSCodeProjects\FunnyGame\obj\Release\netcoreapp3.1\ATMFoundationConsole.pdb
 D:\VSCodeProjects\FunnyGame\obj\Release\netcoreapp3.1\ATMFoundationConsole.genruntimeconfig.cache
+D:\VSCodeProjects\FunnyGame\obj\Release\netcoreapp3.1\ATMFoundationConsole.csproj.AssemblyReference.cache
