@@ -1,0 +1,2 @@
+D:\VSCodeProjects\FunnyGame\bin\Release\netcoreapp3.1\publish\ATMFoundationConsole.pdb
+D:\VSCodeProjects\FunnyGame\bin\Release\netcoreapp3.1\publish\ATMFoundationConsole.exe

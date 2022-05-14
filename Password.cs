@@ -21,13 +21,14 @@ namespace FunnyGame
 
             Console.Clear();
 
+        enter:
+
             Console.WriteLine("Welcome to the ATM Foundation Database");
 
             Thread.Sleep(1500); 
 
             Console.WriteLine("Please enter the project you wish to view the logs of");
 
-        enter:
 
             enterPassword = Console.ReadLine();
 
