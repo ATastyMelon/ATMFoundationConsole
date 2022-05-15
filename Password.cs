@@ -2,6 +2,7 @@
 using System.Threading;
 using System.Collections.Generic;
 using System.Text;
+using ATMFoundationConsole;
 
 namespace FunnyGame
 {
@@ -11,11 +12,11 @@ namespace FunnyGame
         private string enterPassword;
         private string enterPasswordMelon;
         private string password = "OC_25";
-        private string passLow = "oc_25";
 
         public void MainGame(string[] args)
         {
             var system = new System();
+            var melonsIF = new MelonsIF();
 
             Console.Title = "ATM Foundation Database";
 
@@ -55,10 +56,9 @@ namespace FunnyGame
 
             if (enterPasswordMelon == "ATM")
             {
-                Console.WriteLine("Correct Password, unfortunately, this section is still under construction, please come back soon");
-                Thread.Sleep(2500);
-                Console.Clear();
-                goto enter;
+                Console.WriteLine("Hello *MELON*, transferring you to your interface");
+                Thread.Sleep(1500);
+                melonsIF.PEEPEE(args);
             } else
             {
                 Console.WriteLine("INCORRECT PASSWORD, REBOOTING");
